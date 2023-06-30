@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\TaskDevGaurd.exe.config
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\TaskDevGaurd.exe
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\TaskDevGaurd.pdb
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.Form1.resources
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.Properties.Resources.resources
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.exe
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.pdb
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\dnlib.dll
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\dnlib.xml
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.CopyComplete
