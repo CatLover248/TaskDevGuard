@@ -9,6 +9,7 @@ namespace TaskDevGaurd
     public class Settings
     {
         public static bool renamer;
+        public static bool strenc;
 
         
     }

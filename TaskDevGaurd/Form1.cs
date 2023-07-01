@@ -36,6 +36,7 @@ namespace TaskDevGaurd
             while (true)
             {
                 Settings.renamer = checkBox1.Checked;
+                Settings.strenc = checkBox2.Checked;
             }
         }
 

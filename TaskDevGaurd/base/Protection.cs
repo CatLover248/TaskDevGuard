@@ -20,9 +20,9 @@ namespace TaskDevGaurd
             string path = Console.ReadLine();
             var module = ModuleDefMD.Load(path);
 
-            var features = new List<Protection> { 
-                
-                new renamer()
+            var features = new List<Protection> {
+
+                new renamer(), new strenc()
             
             };
 

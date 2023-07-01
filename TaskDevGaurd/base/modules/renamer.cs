@@ -1,4 +1,5 @@
 ﻿using dnlib.DotNet;
+using dnlib.DotNet.Emit;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -50,6 +51,7 @@ namespace TaskDevGaurd.modules
                         }
 
 
+
                     }
                     foreach(var field in type.Fields)
                     {
@@ -60,6 +62,10 @@ namespace TaskDevGaurd.modules
             }
 
         }
+
+        
+
+        
 
         private static string RandomString()
         {
