@@ -12,3 +12,4 @@ C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.pdb
 C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\dnlib.dll
 C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\dnlib.xml
 C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Debug\TaskDevGaurd.csproj.CopyComplete
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Debug\Siticone.Desktop.UI.dll
