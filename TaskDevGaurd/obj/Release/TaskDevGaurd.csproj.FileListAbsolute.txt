@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\TaskDevGaurd.exe.config
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\TaskDevGaurd.exe
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\TaskDevGaurd.pdb
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\dnlib.dll
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\bin\Release\dnlib.xml
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.Form1.resources
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.Properties.Resources.resources
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.csproj.CopyComplete
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.exe
+C:\Users\yusuf\source\repos\TaskDevGaurd\TaskDevGaurd\obj\Release\TaskDevGaurd.pdb

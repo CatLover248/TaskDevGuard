@@ -22,7 +22,7 @@ namespace TaskDevGaurd
 
             var features = new List<Protection> {
 
-                new renamer(), new strenc()
+                new renamer()
             
             };
 
